@@ -1,0 +1,8 @@
+MIDlet-1: Authentification, , sprintMobile.Authentification
+MIDlet-Jar-Size: 2325169
+MIDlet-Jar-URL: Darna.jar
+MIDlet-Name: Darna
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
